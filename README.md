@@ -1,4 +1,4 @@
-# 🏛️ Higher Ups: A Political Satire Game
+#  Higher Ups: A Political Satire Game
 
 **"Higher Ups"** is a 3–5 hour satirical narrative game that plunges players into the morally gray world of Philippine politics. Designed as part of a larger interconnected game universe, *Higher Ups* is a darkly comedic but sobering commentary on corruption, nepotism, bureaucracy, and survival within the system.
 
