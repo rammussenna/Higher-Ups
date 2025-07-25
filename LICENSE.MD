@@ -1,0 +1,8 @@
+THIS PROJECT IS STILL UNDER DEVELOPMENT.
+All Rights Reserved © 2025 Prince Dale Salvador
+
+This repository and all of its contents — including but not limited to source code, design documents, game mechanics, scripts, audio, art, and narrative — are protected under copyright law.
+
+No part of this project may be copied, used, modified, or distributed in any form without the express written permission of the author.
+
+For licensing inquiries or permission requests, contact: realpdsbeats@gmail.com or at my twitter:@scribbleandtype
